@@ -1,0 +1,2 @@
+Memento
+The Memento pattern is concerned with previous states of the object. This means that the pattern is used when we want to save some state of an object, in the case we might want to restore the object to that state later on.

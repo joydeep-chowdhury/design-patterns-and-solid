@@ -1,0 +1,2 @@
+Filter
+The Filter pattern is used when we need a way to filter through sets of objects with different custom criteria. We can chain criteria for an even narrower filter, which is done in a decoupled way.
